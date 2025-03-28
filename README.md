@@ -7,7 +7,7 @@
 Passionate Flutter Developer with 2+ years of experience building high-performance mobile applications. I specialize in creating scalable solutions with clean architecture and optimized performance.
 
 🔹 Published multiple apps on Play Store  
-🔹 Created the [SystemState](https://pub.dev/packages/systemstate) Flutter plugin  
+🔹 Created the [SystemState](https://pub.dev/packages/system_state) Flutter plugin  
 🔹 Expertise in Firebase, REST APIs, and state management  
 
 ## 🛠 Technical Skills
