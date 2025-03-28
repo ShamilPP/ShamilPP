@@ -33,8 +33,8 @@ Passionate Flutter Developer with 2+ years of experience building high-performan
    ![Stars](https://img.shields.io/github/stars/shamilpp/flukefy?style=flat)  
    Complete e-commerce solution with admin panel and real-time data handling.
 
-2. **[SystemState](https://pub.dev/packages/systemstate)** - Flutter Plugin  
-   ![Pub Version](https://img.shields.io/pub/v/systemstate)  
+2. **[SystemState](https://pub.dev/packages/system_state)** - Flutter Plugin  
+   ![Pub Version](https://img.shields.io/pub/v/system_state)  
    Access device states like battery level, network status, and volume controls.
 
 3. **[Ook Chat](https://github.com/shamilpp/ookchat)** - AI-Powered Chat App  
@@ -49,10 +49,10 @@ Passionate Flutter Developer with 2+ years of experience building high-performan
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shamilpp/)
+- 🐦 [Twitter](https://www.linkedin.com/in/shamilpp/)
 - 📧 Email: shamilpp4115@gmail.com
-- 🌐 [Portfolio](https://shamilpp.github.io) (Coming Soon)
+- 🌐 [Portfolio](https://shamilpp.vercel.app/)
 
 ## 🔭 Currently Working On
 
