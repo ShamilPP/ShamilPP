@@ -1,67 +1,136 @@
-# Hi there, I'm Shamil PP 👋
+<h1 align="center">Hi 👋, I'm Shamil PP</h1>
+<h3 align="center">🚀 Flutter Developer | Building Scalable Mobile & SaaS Products</h3>
 
-[![Flutter Developer](https://img.shields.io/badge/Flutter-Expert-blue?logo=flutter)](https://flutter.dev)
-[![GitHub Followers](https://img.shields.io/github/followers/shamilpp?label=Follow&style=social)](https://github.com/shamilpp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shamilpp/)
+<p align="center">
+  <a href="https://flutter.dev">
+    <img src="https://img.shields.io/badge/Flutter-Expert-02569B?logo=flutter&logoColor=white" />
+  </a>
+  <a href="https://github.com/shamilpp">
+    <img src="https://img.shields.io/github/followers/shamilpp?label=Follow&style=social" />
+  </a>
+  <a href="https://www.linkedin.com/in/shamilpp/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-Passionate Flutter Developer with 2+ years of experience building high-performance mobile applications. I specialize in creating scalable solutions with clean architecture and optimized performance.
+---
 
-🔹 Published multiple apps on Play Store  
-🔹 Created the [SystemState](https://pub.dev/packages/system_state) Flutter plugin  
-🔹 Expertise in Firebase, REST APIs, and state management  
+## 🧑‍💻 About Me
 
-## 🛠 Technical Skills
+✨ Passionate Flutter Developer with **2+ years of experience**  
+📱 Focused on **high-performance, scalable mobile apps**  
+🏗️ Strong in **Clean Architecture & MVVM**  
+🔥 Building real-world **products, not just apps**
 
-**Languages & Frameworks**  
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+### 🚀 Highlights
+- 📦 Published multiple apps on Play Store  
+- 🧩 Creator of [`SystemState`](https://pub.dev/packages/system_state) Flutter plugin  
+- ⚡ Experienced in Firebase, REST APIs & state management  
 
-**State Management**  
-![BLoC](https://img.shields.io/badge/BLoC-02569B?logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-0175C2?logo=dart&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-0175C2?logo=dart&logoColor=white)
+---
 
-**Tools & Platforms**  
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+## 🛠 Tech Stack
+
+### 💻 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/>
+</p>
+
+### 🧠 State Management
+<p>
+  <img src="https://img.shields.io/badge/BLoC-02569B?logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Provider-0175C2?logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GetX-0175C2?logo=dart&logoColor=white"/>
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
-1. **[Flukefy](https://github.com/shamilpp/flukefy)** - E-Commerce App with Firebase  
-   ![Stars](https://img.shields.io/github/stars/shamilpp/flukefy?style=flat)  
-   Complete e-commerce solution with admin panel and real-time data handling.
+### 🛒 Flukefy
+🔗 https://github.com/shamilpp/flukefy  
+Complete **E-Commerce app** with Firebase backend & admin panel  
+![Stars](https://img.shields.io/github/stars/shamilpp/flukefy?style=flat)
 
-2. **[SystemState](https://pub.dev/packages/system_state)** - Flutter Plugin  
-   ![Pub Version](https://img.shields.io/pub/v/system_state)  
-   Access device states like battery level, network status, and volume controls.
+---
 
-3. **[Ook Chat](https://github.com/shamilpp/ookchat)** - AI-Powered Chat App  
-   ![Stars](https://img.shields.io/github/stars/shamilpp/ookchat?style=flat)  
-   Uses Gemini API with speech-to-text and toxicity detection features.
+### 💬 OokChat
+🔗 https://github.com/shamilpp/ookchat  
+AI-powered chat app with **speech-to-text & smart moderation**  
+![Stars](https://img.shields.io/github/stars/shamilpp/ookchat?style=flat)
+
+---
+
+### 🧩 SystemState (Flutter Plugin)
+🔗 https://pub.dev/packages/system_state  
+Access device states like **battery, network & volume controls**  
+![Pub Version](https://img.shields.io/pub/v/system_state)
+
+---
+
+### 🏪 StoreStudio (🚧 Ongoing)
+SaaS platform for vendors  
+- Catalog-based selling  
+- WhatsApp-first communication  
+- Subscription model  
+
+---
 
 ## 📈 GitHub Stats
 
-![Shamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamilpp&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shamilpp&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamilpp&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamilpp&theme=tokyonight" />
+</p>
 
-## 📫 Let's Connect
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamilpp&layout=compact&theme=tokyonight" />
+</p>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shamilpp/)
-- 🐦 [Twitter](https://www.linkedin.com/in/shamilpp/)
-- 📧 Email: shamilpp4115@gmail.com
-- 🌐 [Portfolio](https://shamilpp.vercel.app/)
+---
 
-## 🔭 Currently Working On
+## 🎯 Current Focus
 
-- Enhancing my Flutter plugin ecosystem
-- Learning advanced Dart patterns
-- Building a SaaS product with Flutter Web
+- 🚀 Building **StoreStudio (SaaS platform)**  
+- 🧠 Learning **Node.js & MERN Stack**  
+- ⚡ Improving **performance & scalability**  
+- 🔌 Expanding Flutter plugin ecosystem  
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  💼 <a href="https://www.linkedin.com/in/shamilpp/">LinkedIn</a><br>
+  🐦 <a href="https://www.linkedin.com/in/shamilpp/">Twitter</a><br>
+  📧 shamilpp4115@gmail.com<br>
+  🌐 <a href="https://shamilpp.vercel.app/">Portfolio</a>
+</p>
+
+---
 
 ## 💡 Fun Fact
 
-I'm a self-taught developer who transitioned from Commerce to Programming!
+> From Commerce 📊 → to Code 💻 → Building Products 🚀
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=shamilpp.shamilpp)
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamilpp&theme=tokyo-night" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shamilpp.shamilpp" />
+</p>
