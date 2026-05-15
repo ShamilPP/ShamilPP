@@ -26,7 +26,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ShamilPP&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=ShamilPP&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS&base=165323" alt="views"/>
 <img src="https://img.shields.io/github/followers/ShamilPP?style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="followers"/>
 
 </div>
